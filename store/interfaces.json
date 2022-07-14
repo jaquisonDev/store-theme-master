@@ -1,0 +1,6 @@
+{
+    "custom-exibe-pontos": {
+        "component": "ExibePontos",
+        "render": "client"
+    }
+}
