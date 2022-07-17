@@ -81,8 +81,8 @@
       "title": "Logo",
       "href": "/",
       "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
-      "width": "180",
-      "height": "12"
+      "width": "220",
+      "height": "15"
     }
   },
   "header-layout.mobile": {
@@ -127,7 +127,7 @@
       "href": "/",
       "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo-mobile.png",
       "width": "77.5",
-      "height": "27.5"
+      "height": "35"
     }
   }
 }
